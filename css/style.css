@@ -1,14 +1,14 @@
 @font-face {
     font-family: Titulos;
-    src: url(/Assets/Fonts/AnonymousPro-Regular.ttf);
+    src: url(../Assets/Fonts/AnonymousPro-Regular.ttf);
 }
 @font-face {
     font-family: Subtitulos;
-    src: url(/Assets/Fonts/NewsCycle-Regular.ttf);
+    src: url(../Assets/Fonts/NewsCycle-Regular.ttf);
 }
 @font-face {
     font-family: Textos;
-    src: url(/Assets/Fonts/Merriweather-VariableFont_opsz\,wdth\,wght.ttf);
+    src: url(../Assets/Fonts/Merriweather-VariableFont_opsz\,wdth\,wght.ttf);
 }
 h1{
     font-family: Titulos;
@@ -40,7 +40,7 @@ p,a, ul, li{
     #SeccionPrincipal1{
         width: 100%;
         height: 100vh;
-        background-image: url(/Assets/Img/How-to-choose-a-wood-species.jpg);
+        background-image: url(../Assets/Img/How-to-choose-a-wood-species.jpg);
         background-repeat: no-repeat;
         background-size: cover;
     }
@@ -70,7 +70,7 @@ p,a, ul, li{
     .FotoInfo{
         width: 35%;
         height: 60%;
-        background-image: url(/Assets/Img/FotoIntro.jpg);
+        background-image: url(../Assets/Img/FotoIntro.jpg);
         background-repeat: no-repeat;
         background-size: cover;
         border-radius: 10%;
@@ -236,4 +236,5 @@ p,a, ul, li{
         width: 90%;
 
     }
+
     }
