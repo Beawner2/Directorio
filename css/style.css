@@ -73,7 +73,7 @@ p,a, ul, li{
         background-image: url(../Assets/Img/FotoIntro.jpg);
         background-repeat: no-repeat;
         background-size: cover;
-        border-radius: 10%;
+        border-radius: 20px;
         
     }
 
@@ -260,4 +260,5 @@ p,a, ul, li{
                     }
         
     }
+
 
